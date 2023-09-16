@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "listaTombamento",
+    "slug": "listaTombamento",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "listaTombamento"
+}
